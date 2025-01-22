@@ -1,5 +1,5 @@
 # AlgoaBayZoningScenarios
-Data and code accompanying manuscript:\  
+Data and code accompanying manuscript:  
 Scenario planning from the bottom up supports equitable and ecosystem-based approaches to marine spatial planning \
 *Tegan Carpenter-Kling, Hannah Truter, Anne Lemahieu, Bernadette Snow, Mia Strand, Nina Rivers, James Blignaut, Rozanne Bester, Lea Nupnau, Amanda T. Lombard*\
 Please direct queries to tegan.carpenterkling@gmail.com
