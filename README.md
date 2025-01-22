@@ -1,5 +1,5 @@
 # AlgoaBayZoningScenarios
-Data and code accompanying manuscript:\ 
+Data and code accompanying manuscript:\  
 Scenario planning from the bottom up supports equitable and ecosystem-based approaches to marine spatial planning \
 *Tegan Carpenter-Kling, Hannah Truter, Anne Lemahieu, Bernadette Snow, Mia Strand, Nina Rivers, James Blignaut, Rozanne Bester, Lea Nupnau, Amanda T. Lombard*\
 Please direct queries to tegan.carpenterkling@gmail.com
@@ -17,7 +17,7 @@ This script provides examples of how to:
 # Script 3. Final prioritizations
 - This code provides the final code to run zoning scenarios prioiritizations and mapping presented in the manuscript 
 
-# Data: All data necessary to run these script can be found in data folder
+# All data necessary to run these scripts can be found in data folder
 
 
 
